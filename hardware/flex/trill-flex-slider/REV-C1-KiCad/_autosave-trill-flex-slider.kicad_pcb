@@ -86,7 +86,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "../../../manufacturing/trill-flex-slider-${REVISION}/drill_files")
+      (outputdirectory "../../../manufacturing/trill-flex-slider-ssk/")
     )
   )
 
